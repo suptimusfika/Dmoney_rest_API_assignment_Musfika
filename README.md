@@ -1,4 +1,4 @@
-# Dmoney_rest_API_assignment_Musfika
+# Dmoney_Rest_API_Assignment_Mgitsfika
 
 ## Technology used:
 - Postman
